@@ -1,0 +1,6 @@
+do_token=""
+vpc_name = "youtube-production"
+vpc_cidr = "10.93.0.0/25"
+droplet_name = "demo-terraform-youtube"
+droplet_size = "s-1vcpu-2gb"
+ssh_key_path = "./demo-youtube.pub"
